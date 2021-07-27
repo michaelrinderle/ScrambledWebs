@@ -2,10 +2,10 @@
 Network web traffic generator and aggragator driven by YML based campaign files
 
 # Releases
-[Release 1.0 Download](https://github.com/michaelrinderle/)
+[Pre-Release 1.0.0 Download](https://github.com/michaelrinderle/scrambled_webs/releases/download/V1.0.0W/scrambled_webs_1.0.0.zip)
 
 * Demo 
-![Screenshot](demo.png)
+![Screenshot](demo.gif)
 
 # Privacy \ Research Tool 
 	* Find data you didn't now existed
