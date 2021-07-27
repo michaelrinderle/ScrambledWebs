@@ -2,13 +2,14 @@
 Network web traffic generator and aggragator driven by YML based campaign files
 
 # Releases
-[Pre-Release 1.0.0 Download](https://github.com/michaelrinderle/scrambled_webs/releases/download/V1.0.0W/scrambled_webs_1.0.0.zip)
+[Pre-Release 1.0.0 (winx64) Download](https://github.com/michaelrinderle/scrambled_webs/releases/download/V1.0.0W/scrambled_webs_1.0.0.zip)
 
 * Demo 
 ![Screenshot](demo.gif)
 
-# Privacy \ Research Tool 
+# Privacy & Security Research Tool
 	* Find data you didn't now existed
+    * Locate developing data points
 	* Generate web traffic for network stress testing
 	* Obfuscate traffic from malicious eavesdropping
 	* Extend for machine learning inputs
@@ -16,15 +17,15 @@ Network web traffic generator and aggragator driven by YML based campaign files
 # Easy To Use
 	* Use simple YML files to map your campaigns
 	* Keyword based seeding for specific targeting
-	* Written in .NetCore, easy to extend. 
+    * Minimal requirements
 
 # Features 
 	* Run campaigns using browsers in headless mode
     * Logging support
 	* Ability to run as startup service for privacy purposes
 	* Proxy support
-	* Written in .NetCore, easy to exend
 	* Run as a start up service 
+    * Written in .NetCore, easy to exend
 
 # Requirements 
     * .Net4  
