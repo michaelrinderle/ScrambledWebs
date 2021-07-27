@@ -1,0 +1,43 @@
+Campaign: "campaign example"
+Author: "author"
+Duration: 0
+Logging: true
+LogPath: ""
+Browser: 
+    Type: firefox
+    HtmlOnly: false
+    Headless: false
+    Incognito: true
+    Agent: "ScrambledWebs v1.0"
+    WindowHeight: 500
+    WindowWidth: 300
+    MaxDepth: 25
+    MinDepth: 3
+    MaxWait: 5
+    MinWait: 2
+    MaxQueue: 5000
+    Proxy:
+        Enabled: "true"
+        Host: "127.0.0.0"
+        Port: 53
+
+Urls:
+    - https://www.msnbc.com
+    - https://www.foxnews.com
+    - https://www.nbc.com
+    - https://www.vox.com/
+    - https://en.wikipedia.org
+    - https://www.reddit.com
+    - https://www.msn.com
+    - https://www.salon.com
+    - https://www.cnn.com
+
+Blacklist:
+    - https://www.facebook.com
+    - https://www.twitter.com
+
+BannedKeywords:
+    - mp3
+    - mp4
+    - zip
+    - localhost
