@@ -9,7 +9,7 @@ Network web traffic generator and aggragator driven by YML based campaign files
 
 # Privacy & Security Research Tool
 	* Find data you didn't now existed
-    	* Locate developing data points
+	* Locate developing data points
 	* Generate web traffic for network stress testing
 	* Obfuscate traffic from malicious eavesdropping
 	* Protect privacy by tainting mined user data
@@ -18,26 +18,26 @@ Network web traffic generator and aggragator driven by YML based campaign files
 # Easy To Use
 	* Use simple YML files to map your campaigns
 	* Keyword based seeding for specific targeting
-    	* Minimal requirements
+	* Minimal requirements
 
 # Features 
 	* Run campaigns using browsers in headless mode
-    	* Logging support
+	* Logging support
 	* Ability to run as startup service for privacy purposes
 	* Proxy support
 	* Run as a start up service 
-    * Written in .NetCore, easy to exend
+	* Written in .NetCore, easy to exend
 
 # Requirements 
-    	* .Net4  
+	* .Net4  
 	* Selenium
 	* Firefox or Chrome 
 	* More browsers to come
 
 # Todo 
 	* Bot campaign support for browserless campaigns
-    	* Multi-threading for multiple campaigns
-    	* Task based pipeline for easy custom user actions
+	* Multi-threading for multiple campaigns
+	* Task based pipeline for easy custom user actions
 	* Machine learning pipeline for mined data
 	* Custom User Module Support 
 	* More browser support
